@@ -6,3 +6,4 @@
 
 # PBLauncher v3.24 Public Version
 > Public launcher dedicated to private servers | Launcher público dedicado a servidores privados
+This is a project for personal study purposes only, therefore I do not recommend its use to anyone.
