@@ -19,3 +19,9 @@
         <img src="https://github.com/codecorno/PBLauncher-v3.24/blob/main/img/launcher1.png" />
     </a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/codecorno/PBLauncher-v3.24/blob/main/img">
+        <img src="https://github.com/codecorno/PBLauncher-v3.24/blob/main/img/launcher2.png" />
+    </a>
+</p>
