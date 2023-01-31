@@ -13,7 +13,3 @@
     Prints
     <br />
   </p>
-  <a href="https://github.com/codecorno/PBLauncher-v3.24/tree/main/img">
-        <img src="https://github.com/codecorno/PBLauncher-v3.24/tree/main/img/launcher1.png" />
-    </a>
-</p>
