@@ -1,0 +1,13 @@
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\bin\Debug\PBLauncher.exe.config
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\bin\Debug\PBLauncher.exe
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\bin\Debug\PBLauncher.pdb
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\obj\Debug\Launcher.Auth.resources
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\obj\Debug\Launcher.Form_Conect.resources
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\obj\Debug\Launcher.Form_Launcher.resources
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Linycker\Desktop\Projetos\POINT BLANK\Launcher Benyood\Launcher\obj\Debug\PBLauncher.pdb
